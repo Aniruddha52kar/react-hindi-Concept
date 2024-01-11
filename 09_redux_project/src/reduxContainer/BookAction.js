@@ -1,6 +1,6 @@
 // bookAction kya hai actione creater jo ki ek function hai
 
-import {buyBook} from './BookType.js';
+import {buyBook} from './BookType';
 // ye value ko import kare ge 
 
 
